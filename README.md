@@ -1,16 +1,31 @@
-### Hi there 👋
+<h2 align="center">
+  Bruno Nascimento
+</h2>
 
-<!--
-**Brunonascdev/Brunonascdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>JavaScript | Node.js | ReactJS | React Native</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a
+    href="https://www.linkedin.com/in/osvaldokalvaitir" 
+    alt="LinkedIn"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-LinkedIn-584153?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <a
+    href="https://github.com/osvaldokalvaitir"
+    alt="GitHub"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-GitHub-584153?style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="center">
+  Hey, I'm Bruno! 👋
+</h4>
+<p align="center">
+  📌 Living in <b>Mongaguá</b>, <b>São Paulo</b>, <b>Brazil</b> &nbsp; 💼 Jr. Software Engineer at <b>MusicPlayce 👨🏻‍💻🎵</b>
+</p>
