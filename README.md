@@ -34,5 +34,5 @@
   Hey, I'm Bruno! 👋
 </h4>
 <p align="center">
-  📌 Living in <b>Mongaguá</b>, <b>São Paulo</b>, <b>Brazil</b> &nbsp; 💼 Jr. Software Engineer at <b>MusicPlayce 👨🏻‍💻🎵</b>
+  📌 Living in <b>Mongaguá</b>, <b>São Paulo</b>, <b>Brazil</b> &nbsp; 💼 Chapter Lead Web | Software Engineer at <b>MusicPlayce 👨🏻‍💻🎵</b>
 </p>
