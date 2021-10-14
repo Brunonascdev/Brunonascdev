@@ -34,5 +34,5 @@
   Hey, I'm Bruno! 👋
 </h4>
 <p align="center">
-  📌 Living in <b>Praia Grande</b>, <b>São Paulo</b>, <b>Brazil</b> &nbsp; 💼 Mobile Engineer at <b>Cheesecake Labs 👨🏻‍💻�💙</b>
+  📌 Living in <b>Praia Grande</b>, <b>São Paulo</b>, <b>Brazil</b> &nbsp; 💼 Mobile Engineer at <b>Cheesecake Labs 👨🏻‍💻💙</b>
 </p>
