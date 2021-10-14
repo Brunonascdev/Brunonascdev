@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <b>JavaScript | Node.js | ReactJS | React Native</b>
+  <b>Software Engineer | Mobile Engineer</b>
 </p>
 
 <p align="center">
@@ -34,5 +34,5 @@
   Hey, I'm Bruno! 👋
 </h4>
 <p align="center">
-  📌 Living in <b>Mongaguá</b>, <b>São Paulo</b>, <b>Brazil</b> &nbsp; 💼 Chapter Lead Web | Software Engineer at <b>MusicPlayce 👨🏻‍💻🎵</b>
+  📌 Living in <b>Praia Grande</b>, <b>São Paulo</b>, <b>Brazil</b> &nbsp; 💼 Mobile Engineer at <b>Cheesecake Labs 👨🏻‍💻�💙</b>
 </p>
