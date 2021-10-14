@@ -12,21 +12,21 @@
     alt="LinkedIn"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-LinkedIn-584153?style=for-the-badge&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0059ff?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
   <a
     href="https://github.com/Brunonascdev"
     alt="GitHub"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-GitHub-584153?style=for-the-badge&logo=Github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-0059ff?style=for-the-badge&logo=Github&logoColor=white" />
   </a>
   <a
     href="https://gitlab.com/Brunonascdev"
     alt="GitLab"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-GitLab-584153?style=for-the-badge&logo=Gitlab&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitLab-0059ff?style=for-the-badge&logo=Gitlab&logoColor=white" />
   </a>
 </p>
 
