@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <b>Software Engineer | Mobile Engineer</b>
+  <b>Blockchain Enthusiast | Node.js | Flutter | React Native</b>
 </p>
 
 <p align="center">
@@ -34,5 +34,5 @@
   Hey, I'm Bruno! 👋
 </h4>
 <p align="center">
-  📌 Living in <b>Praia Grande</b>, <b>São Paulo</b>, <b>Brazil</b> &nbsp; 💼 Tech Lead at <b>Cheesecake Labs 👨🏻‍💻💙</b>
+  📌 Living in <b>Praia Grande</b>, <b>São Paulo</b>, <b>Brazil</b> &nbsp; 💼 Senior Software Engineer at <b>Cheesecake Labs 👨🏻‍💻💙</b>
 </p>
